@@ -1,0 +1,22 @@
+{
+  "name": "deploy-lambda-ec2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbmarflo/deploy-lambda-ec2.git"
+  },
+  "author": "Joseph Marcilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbmarflo/deploy-lambda-ec2/issues"
+  },
+  "homepage": "https://github.com/jbmarflo/deploy-lambda-ec2#readme",
+  "dependencies": {
+    "simple-ssh": "^1.0.0"
+  }
+}
